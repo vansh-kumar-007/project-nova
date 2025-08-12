@@ -38,8 +38,8 @@ Build an alternative credit scoring model ("Nova Score") for platform partners u
 - [ ] Repo skeleton (done)
 - [ ] Conda env (done)
 - [ ] Jupyter notebook created (done)
-- [ ] Notebook populated with this plan (YOU DO THIS)
-- [ ] Export conda env file (optional, recommended)
+- [ ] Notebook populated with this plan 
+
 
 ## Next steps after this notebook
 1. Create `src/` helper files (data loaders & utils).
