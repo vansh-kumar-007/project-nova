@@ -1,0 +1,2 @@
+# Treat all CSV files as binary to avoid large text diffs
+*.csv binary
