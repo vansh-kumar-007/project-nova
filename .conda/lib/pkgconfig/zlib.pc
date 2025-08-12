@@ -1,0 +1,13 @@
+prefix=/home/vansh/projects/project-nova/.conda
+exec_prefix=/home/vansh/projects/project-nova/.conda
+libdir=/home/vansh/projects/project-nova/.conda/lib
+sharedlibdir=/home/vansh/projects/project-nova/.conda/lib
+includedir=/home/vansh/projects/project-nova/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
